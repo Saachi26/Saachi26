@@ -31,11 +31,16 @@ Here are some ideas to get you started:
 <div align="center">
   <!-- Web Development & Databases -->
   <img src="https://skillicons.dev/icons?i=python,javascript,react,next,vite,tailwind,figma,nodejs,express,redux,postgresql,mongo,mysql" />
-  <br>
+  <br/><br/>
   
-  <!-- Machine Learning & Data Science (NEW) -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,opencv,anaconda" />
-  <br>
+  <!-- Machine Learning & Data Science (Static SVGs - Guaranteed to work) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit_learn" style="margin: 0 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv" style="margin: 0 5px;" />
+  <br/><br/>
 
   <!-- DevOps & Tools -->
   <img src="https://skillicons.dev/icons?i=git,linux,bash,redis,aws,docker,kubernetes" />
