@@ -29,9 +29,16 @@ Here are some ideas to get you started:
 <h2>⚡ Language & Technologies</h2>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,react,next,vite,tailwind,figma,nodejs,express,redux,postgresql,mongo,mysql" />
+  <!-- Web Development & Databases -->
+  <img src="https://skillicons.dev/icons?i=python,javascript,react,next,vite,tailwind,figma,nodejs,express,redux,postgresql,mongo,mysql" />
+  <br>
+  
+  <!-- Machine Learning & Data Science (NEW) -->
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,opencv,anaconda" />
+  <br>
 
-<img src="https://skillicons.dev/icons?i=git,linux,bash,redis,aws" />
+  <!-- DevOps & Tools -->
+  <img src="https://skillicons.dev/icons?i=git,linux,bash,redis,aws,docker,kubernetes" />
 </div>
 
 <h2>📚 Read My Latest Blog Post</h2>
