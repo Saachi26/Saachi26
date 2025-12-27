@@ -50,17 +50,7 @@ Here are some ideas to get you started:
 
 <!-- HASHNODE_BLOG:START -->
 <table>
-<tr>
-<td>
-<a href="https://saachis-blog.hashnode.dev/why-i-ditched-google-colab-for-a-local-setup">
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1764273689937/8db0f826-5fcd-4d16-9ef0-3472fc009534.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Why I Ditched Google Colab for a Local Setup?" width="300" />
-</a>
-</td>
-<td>
-<a href="https://saachis-blog.hashnode.dev/why-i-ditched-google-colab-for-a-local-setup"><strong>Why I Ditched Google Colab for a Local Setup?</strong></a><br/>
-My guide to setting up a professional Machine Learning environment on macOS. Covers Miniconda installation, Python environment management, and leveraging Apple Silicon for local development.
-</td>
-</tr>
+
 </table>
 <!-- HASHNODE_BLOG:END -->
 
