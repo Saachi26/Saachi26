@@ -64,12 +64,6 @@ My guide to setting up a professional Machine Learning environment on macOS. Cov
 </table>
 <!-- HASHNODE_BLOG:END -->
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saachi26&layout=compact&theme=radical" height="180" alt="languages graph" />
-</div>
-
 <div align="center">
 <h3>🤝 Connect with Me</h3>
 <a href="https://www.linkedin.com/in/saachi-badal/">
