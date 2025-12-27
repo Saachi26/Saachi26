@@ -1,8 +1,11 @@
 name: Latest blog post workflow
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 0 * * *' # Runs every night at midnight
-  workflow_dispatch: # Run workflow manually
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write 
 
 jobs:
   update-readme-with-blog:
@@ -11,11 +14,12 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
+        
       - name: Pull in Hashnode posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://saachis-blog.hashnode.dev/rss.xml"
           max_post_count: 1
           comment_tag_name: "HASHNODE_BLOG" 
-          # UPDATED TEMPLATE BELOW: Only one <br/> used
+          # Your custom template
           template: "<table><tr><td><a href='$url'><img src='$cover_image' width='300' alt='$title' /></a></td><td><a href='$url'><strong>$title</strong></a><br/>$description...</td></tr></table>"
