@@ -50,7 +50,17 @@ Here are some ideas to get you started:
 
 <!-- HASHNODE_BLOG:START -->
 <table>
-
+<tr>
+<td>
+<a href="https://saachis-blog.hashnode.dev/the-unified-theory-of-matrices-and-vector-spaces">
+<img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/05A-kdOH6Hw/upload/46bc8ed2fd14005a75d927c6dfaea9d8.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="The Unified Theory of Matrices & Vector Spaces
+" width="300" />
+</a>
+</td>
+<td>
+<a href="https://saachis-blog.hashnode.dev/why-i-ditched-google-colab-for-a-local-setup"><strong>The Unified Theory of Matrices & Vector Spaces</strong></a><br/>
+Linear algebra is often taught as a list of disconnected rules, but this guide aims to connect the dots. We start by dissecting the anatomy of simple linear systems and build our way up through vector spaces, orthogonality, and projections. The journey culminates with matrix decompositions - QR, LU, SVD, and Eigen, giving you the complete toolkit needed to understand the geometry of data.</td>
+</tr>
 </table>
 <!-- HASHNODE_BLOG:END -->
 
